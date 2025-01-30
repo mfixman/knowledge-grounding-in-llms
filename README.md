@@ -1,10 +1,7 @@
 # Enhancing Knowledge Grounding in Retrieval-Augmented Languages Models
-An ongoing MSc thesis project by Martin Fixman, supervised by Tillman Weyde.
 
-## What is this about (for now)?
-We are competing the grounding of different types of knowledge of many LLMs on several RAG models containing counterfactual information.
-
-Better description to be completer later!
+## What is this about?
+We are finding the kowledge grounding of different types of knowledge of many LLMs on queries containing counterfactual information.
 
 ![Data preparation pipeline](figures/Figure_1.png)
 
