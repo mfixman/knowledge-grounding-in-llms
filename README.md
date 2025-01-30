@@ -3,9 +3,7 @@
 ## What is this about?
 We are finding the kowledge grounding of different types of knowledge of many LLMs on queries containing counterfactual information.
 
-![Data preparation pipeline](figures/Figure_1.png)
-
-![Model evaluation](figures/Figure_2.png)
+![Data preparation pipeline](pictures/Method.png)
 
 ## Recommendations
 Many of the models are large, and it might be useful to download them using the Huggingface CLI first.
